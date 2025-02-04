@@ -10,7 +10,7 @@ const commandMembers = {
       image: "https://cdn.discordapp.com/avatars/535547040399228929/cfb203a3249a7235d2f5e2b7fe3a1900.png?size=4096"
     },
     {
-      name: "[CE-125] Daniel",
+      name: "[CE-20] Daniel",
       role: "LAS Chief Executive Officer",
       image: "https://cdn.discordapp.com/avatars/1209604759913504768/9aaea0ae5bd99fcafba9f2fad3d870cb.png?size=4096"
     }
@@ -27,8 +27,8 @@ const commandMembers = {
       image: "https://cdn.discordapp.com/avatars/1137069657526898818/8bab1792ef7555295d1cab04e85f10b2.png?size=4096"
     },
     {
-      name: "[OM-127] Blake",
-      role: "LAS Clinical Operations Manager",
+      name: "[CM-23] Blake",
+      role: "LAS Clinical Services Manager",
       image: "https://cdn.discordapp.com/avatars/883414321231708210/e32c06ccaa66c6c0a21ad9727542dcff.png?size=4096"
     }
   ],
@@ -44,7 +44,7 @@ const commandMembers = {
       image: "https://cdn.discordapp.com/embed/avatars/0.png"
     },
     {
-      name: "[TM-132] Jay",
+      name: "[TM-24] Jay",
       role: "LAS Clinical Team Manager",
       image: "https://cdn.discordapp.com/guilds/1190797643744542870/users/802990311516930098/avatars/6e0a5dd3b071bcac7744bdafbba428af.png?size=4096"
     },
