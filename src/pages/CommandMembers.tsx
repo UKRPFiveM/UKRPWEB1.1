@@ -34,11 +34,6 @@ const commandMembers = {
   ],
   bronze: [
     {
-      name: "[EI-8] Fin",
-      role: "MPS ERPT Inspector",
-      image: "https://cdn.discordapp.com/avatars/724997298169577504/7a83c9e523414546060d850338250a87.png?size=4096"
-    },
-    {
       name: "[DI-9] Rhys",
       role: "MPS DSU Inspector",
       image: "https://cdn.discordapp.com/embed/avatars/0.png"
