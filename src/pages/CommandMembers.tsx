@@ -24,12 +24,12 @@ const commandMembers = {
     {
       name: "MPS [CI-5] Jack",
       role: "DSU & ERPT Chief Inspector",
-      image: "https://cdn.discordapp.com/avatars/1137069657526898818/8bab1792ef7555295d1cab04e85f10b2.png?size=4096"
+      image: "https://cdn.discordapp.com/avatars/1137069657526898818/d332f2f3beb695ea0bfd52182e628dbd.png?size=4096"
     },
     {
-      name: "LAS [CM-23] Blake",
+      name: "LAS [CM-23] Louis",
       role: "Clinical Services Manager",
-      image: "https://cdn.discordapp.com/avatars/883414321231708210/e32c06ccaa66c6c0a21ad9727542dcff.png?size=4096"
+      image: "https://cdn.discordapp.com/avatars/659507676987785216/a_81fcc5caaedd4a8d95d85639fb6590fe.gif?size=4096"
     }
   ],
   bronze: [
@@ -42,7 +42,7 @@ const commandMembers = {
     {
       name: "MPS [TI-7] Hayden",
       role: "RTPC Inspector",
-      image: "https://cdn.discordapp.com/avatars/1147976099163291698/2f7b1e5f50fa11bce030901190488388.png?size=4096"
+      image: "https://cdn.discordapp.com/avatars/1147976099163291698/b99949692e75b7a54c4319742cedf805.png?size=4096"
     },
     {
       name: "MPS [DI-9] Rhys",
@@ -51,25 +51,46 @@ const commandMembers = {
     },
     // Sergeants
     {
-      name: "MPS [TS-15] Liam",
+      name: "MPS [TS-15] Blake",
       role: "RTPC Sergeant",
-      image: "https://cdn.discordapp.com/avatars/796847000523374632/eb0f0a5a4a53de30607385c347cbb851.png?size=4096"
+      image: "https://cdn.discordapp.com/avatars/883414321231708210/e32c06ccaa66c6c0a21ad9727542dcff.png?size=4096"
     },
     {
       name: "MPS [TS-14] Synkzz",
       role: "RTPC Sergeant",
-      image: "https://cdn.discordapp.com/avatars/1321389269494796318/a646788017b948032ab7a7acff78a0aa.png?size=4096"
+      image: "https://cdn.discordapp.com/avatars/1321389269494796318/651e65d62d0631ba984ebd00cd8ae178.png?size=4096"
     },
+    {
+      name: "MPS [ES-12] Charlie",
+      role: 'ERPT Sergeant',
+      image: 'https://cdn.discordapp.com/avatars/1264239385319309363/6663ca745a16028961fcc8bf9b4ef5a1.png?size=4096'
+    },
+    {
+      name: "MPS [ES-13] TheLetuce",
+      role: 'ERPT Sergeant',
+      image: 'https://cdn.discordapp.com/avatars/950808671850479716/1fa4b5fe08b0c4d9abf5cb2f84afa1e3.png?size=4096'
+    },
+    {
+      name: "MPS [DS-10] Dave",
+      role: 'DSU Sergeant',
+      image: 'https://cdn.discordapp.com/embed/avatars/0.png'
+    },
+
     // Clinical Team Managers
     {
-      name: "LAS [TM-25] Louis",
+      name: "LAS [TM-24] Luppy",
       role: "Clinical Team Manager",
-      image: "https://cdn.discordapp.com/avatars/659507676987785216/a_81fcc5caaedd4a8d95d85639fb6590fe.gif?size=4096"
+      image: "https://cdn.discordapp.com/avatars/1179183421889712259/b00207678ef2a59ed2ed04de65e59017.png?size=4096"
     },
     {
-      name: "LAS [TM-24] Jay",
-      role: "Clinical Team Manager",
-      image: "https://cdn.discordapp.com/guilds/1190797643744542870/users/802990311516930098/avatars/6e0a5dd3b071bcac7744bdafbba428af.png?size=4096"
+      name: "HEMS [ST-27] PXLAR",
+      role: "Specialist HEMS Team Manager",
+      image: "https://cdn.discordapp.com/avatars/757193924623466557/bc31a02ec80cbabef8df02c179b7dd21.png?size=4096"
+    },
+    {
+      name: "HEMS [ST-28] Fin",
+      role: "Specialist HEMS Team Manager",
+      image: "https://cdn.discordapp.com/avatars/724997298169577504/7a83c9e523414546060d850338250a87.png?size=4096"
     },
     // Civilian Team Leaders
     {
